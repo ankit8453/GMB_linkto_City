@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Current version of the script
 CURRENT_VERSION = "1.0.0"
-VERSION_CHECK_URL = "https://raw.githubusercontent.com/ankit8453/GMB_linkto_City/main/latest_version.txt?token=GHSAT0AAAAAACUKHZBZY3DLUXXTXLUAKJ4YZUO4KPA"
+VERSION_CHECK_URL = "https://raw.githubusercontent.com/ankit8453/GMB_linkto_City/main/latest_version.txt"
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
