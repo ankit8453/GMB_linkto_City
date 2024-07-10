@@ -5,9 +5,8 @@ Place the Excel file (mbg.xlsx) in the same directory as the executable, or prov
 Running the Executable:
 
 If the Excel file is in the same directory:
-bash
-Copy code
-##your_script.exe mbg.xlsx
+##
+  your_script.exe mbg.xlsx
 If the Excel file is in a different directory:
 bash
 Copy code
